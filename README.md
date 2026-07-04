@@ -49,3 +49,4 @@ I learnet about using `grid-template-areas`. Plus I learnt about `position` and 
 
 - [PX to REM Converter](https://nekocalc.com/px-to-rem-converter) - Well until I am not used to use REM this website is perfect.
 - [Grid template areas](https://css-tricks.com/almanac/properties/g/grid/grid-template-areas/) - This is a nice blog about `grid-template-areas`.
+- [Offset parent and stacking context: positioning elements in all three dimensions](https://polypane.app/blog/offset-parent-and-stacking-context-positioning-elements-in-all-three-dimensions/) - This blog will tell you what happens when you use the `z-index: -1` on an element what you don't want to be behind your parent div.
