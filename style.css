@@ -216,35 +216,4 @@ main {
 
         padding-inline: unset;
     }
-
-    .daniel {
-        grid-area: daniel;
-        z-index: 1;
-
-        img.pattern-icon {
-            margin: 0;
-            display: block;
-            position: absolute;
-            z-index: -1;
-            top: 0;
-            right: 7.5rem;
-            width: 8.438rem;
-        }
-    }
-
-    .jonathan {
-        grid-area: jonathan;
-    }
-
-    .jeanette {
-        grid-area: jeanette;
-    }
-
-    .patrick {
-        grid-area: patrick;
-    }
-
-    .kira {
-        grid-area: kira;
-    }
 }
